@@ -1,0 +1,2 @@
+# LIM
+Linux installation manager
